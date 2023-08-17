@@ -1,0 +1,16 @@
+﻿@model List<Car>
+
+@{
+    ViewData["Title"] = "MarkaIndex";
+}
+
+<ul>
+
+    @foreach (Car car in Model)
+    {
+
+        <li><a> ID:@car.Id       CarSerieName:@car.CarName   </a></li>
+
+    }
+
+</ul>

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YUzJO4goeLWvOPk4zpn8yqceW5AesIZVmzBstUlUZ+8=",
+  "Source": "ClassPractise",
+  "BasePath": "_content/ClassPractise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClassPractise\\wwwroot",
+      "Source": "ClassPractise",
+      "ContentRoot": "C:\\Users\\Murad\\OneDrive - ADA University\\Desktop\\ClassPractise\\ClassPractise\\wwwroot\\",
+      "BasePath": "_content/ClassPractise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

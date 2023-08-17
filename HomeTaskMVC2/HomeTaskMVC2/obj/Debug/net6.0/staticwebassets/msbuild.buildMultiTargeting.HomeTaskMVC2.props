@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HomeTaskMVC2.props" />
+</Project>

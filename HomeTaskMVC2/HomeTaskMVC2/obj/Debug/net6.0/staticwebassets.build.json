@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "trPOmRCeVTfxBBxkXr8az2YbEUKbb/brklbIk1KQiHM=",
+  "Source": "HomeTaskMVC2",
+  "BasePath": "_content/HomeTaskMVC2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeTaskMVC2\\wwwroot",
+      "Source": "HomeTaskMVC2",
+      "ContentRoot": "C:\\C#Program\\MegaDirev\\HomeTaskMVC2\\HomeTaskMVC2\\wwwroot\\",
+      "BasePath": "_content/HomeTaskMVC2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

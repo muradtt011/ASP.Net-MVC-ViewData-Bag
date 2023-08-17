@@ -1,0 +1,13 @@
+﻿@model List<Group>
+
+@{
+    ViewData["Title"] = "index";
+}
+
+<ul >
+@foreach (Group group in Model)
+{
+    <li ><a href="/student/index/@group.Id"> ID: @group.Id    Name: @group.GroupName      </a></li>
+
+}
+   </ul>

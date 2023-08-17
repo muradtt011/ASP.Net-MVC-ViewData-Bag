@@ -1,0 +1,13 @@
+﻿@model List<Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<ul>
+    @foreach (Student student in Model)
+    {
+        <li><a href="/student/details/@student.Id"> ID: @student.Id    Name: @student.StudentName   </a></li>
+
+    }
+</ul>
