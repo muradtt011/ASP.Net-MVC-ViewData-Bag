@@ -27,3 +27,61 @@ C:\C#Program\MegaDirev\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\refint\HomeTas
 C:\C#Program\MegaDirev\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.pdb
 C:\C#Program\MegaDirev\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.genruntimeconfig.cache
 C:\C#Program\MegaDirev\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\ref\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\appsettings.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.staticwebassets.runtime.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.exe
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.deps.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.runtimeconfig.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.pdb
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.csproj.AssemblyReference.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.AssemblyInfoInputs.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.AssemblyInfo.cs
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.csproj.CoreCompileInputs.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.RazorAssemblyInfo.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.RazorAssemblyInfo.cs
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.HomeTaskMVC2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.build.HomeTaskMVC2.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HomeTaskMVC2.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HomeTaskMVC2.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\scopedcss\bundle\HomeTaskMVC2.styles.css
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\refint\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.pdb
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.genruntimeconfig.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\ref\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\appsettings.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.staticwebassets.runtime.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.exe
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.deps.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.runtimeconfig.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\bin\Debug\net6.0\HomeTaskMVC2.pdb
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.csproj.AssemblyReference.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.AssemblyInfoInputs.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.AssemblyInfo.cs
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.csproj.CoreCompileInputs.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.RazorAssemblyInfo.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.RazorAssemblyInfo.cs
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.HomeTaskMVC2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.build.HomeTaskMVC2.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HomeTaskMVC2.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HomeTaskMVC2.props
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\scopedcss\bundle\HomeTaskMVC2.styles.css
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\refint\HomeTaskMVC2.dll
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.pdb
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\HomeTaskMVC2.genruntimeconfig.cache
+C:\Users\Murad\OneDrive - ADA University\Desktop\C# BackEnd\TasksHome\HomeTaskMVC2\HomeTaskMVC2\obj\Debug\net6.0\ref\HomeTaskMVC2.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#Program\\MegaDirev\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj": {}
+    "C:\\Users\\Murad\\OneDrive - ADA University\\Desktop\\C# BackEnd\\TasksHome\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj": {}
   },
   "projects": {
-    "C:\\C#Program\\MegaDirev\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj": {
+    "C:\\Users\\Murad\\OneDrive - ADA University\\Desktop\\C# BackEnd\\TasksHome\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#Program\\MegaDirev\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj",
+        "projectUniqueName": "C:\\Users\\Murad\\OneDrive - ADA University\\Desktop\\C# BackEnd\\TasksHome\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj",
         "projectName": "HomeTaskMVC2",
-        "projectPath": "C:\\C#Program\\MegaDirev\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj",
+        "projectPath": "C:\\Users\\Murad\\OneDrive - ADA University\\Desktop\\C# BackEnd\\TasksHome\\HomeTaskMVC2\\HomeTaskMVC2\\HomeTaskMVC2.csproj",
         "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
-        "outputPath": "C:\\C#Program\\MegaDirev\\HomeTaskMVC2\\HomeTaskMVC2\\obj\\",
+        "outputPath": "C:\\Users\\Murad\\OneDrive - ADA University\\Desktop\\C# BackEnd\\TasksHome\\HomeTaskMVC2\\HomeTaskMVC2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

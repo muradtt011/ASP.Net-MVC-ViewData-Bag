@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "trPOmRCeVTfxBBxkXr8az2YbEUKbb/brklbIk1KQiHM=",
+  "Hash": "M1hOQXQJ+fdOO4zo8L0nioP+dbrMHUepT0U0T/D0hpc=",
   "Source": "HomeTaskMVC2",
   "BasePath": "_content/HomeTaskMVC2",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "HomeTaskMVC2\\wwwroot",
       "Source": "HomeTaskMVC2",
-      "ContentRoot": "C:\\C#Program\\MegaDirev\\HomeTaskMVC2\\HomeTaskMVC2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murad\\OneDrive - ADA University\\Desktop\\C# BackEnd\\TasksHome\\HomeTaskMVC2\\HomeTaskMVC2\\wwwroot\\",
       "BasePath": "_content/HomeTaskMVC2",
       "Pattern": "**"
     }

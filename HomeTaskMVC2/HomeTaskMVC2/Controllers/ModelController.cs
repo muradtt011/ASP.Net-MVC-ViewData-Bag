@@ -23,7 +23,7 @@ namespace HomeTaskMVC2.Controllers
 
         public IActionResult Index(int?id)
         {
-            if (id == null) return BadRequest();
+            if (id == null) return View(_models);
             if(_models.Exists(m => m.MarkaId == id))
             {
                 return View(_models.FindAll(m=> m.MarkaId == id));
